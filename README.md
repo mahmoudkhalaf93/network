@@ -49,8 +49,7 @@ core knowledged
 
 
 ## CCNP Interview Questions Part2 ISP Basic Routing
-ده اسئلة خاصة ببوزشن ال noc و enterprise
-ccna and ccnp only 
+ده اسئلة خاصة ببوزشن ال noc و enterprise  وتكون مذاكر  ccna and ccnp only ولو معاها security بيس يعنى 
 * [Link-Youtube](https://www.youtube.com/watch?v=PS6uuzECB-I&list=PLmtwyhhbARk_zSiVEifI5As7bZqUG1BIL&index=6)
 
 --------------
