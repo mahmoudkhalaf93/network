@@ -44,13 +44,7 @@ core knowledged
 
 
 ## CCNP Interview Questions Part1 Network Solutions
-ده انترفيو خاص بشركات السليوشن 
-solutions
-شركة عندها مهندسين شبكات بيعملو 
-installtion
- وكده للشبكة وصيانتها لو وقعت وبتاع
-ccna and ccnp
-ويفضل تكون مذاكر mcsa and security 
+ده انترفيو خاص بشركات السليوشن solutions شركة عندها مهندسين شبكات بيعملو installtion وكده للشبكة وصيانتها لو وقعت وبتاع لازم تكون مذاكر ccna and ccnp ويفضل تكون مذاكر mcsa and security 
 * [Link-Youtube](https://www.youtube.com/watch?v=59DT4np_VN8&list=PLmtwyhhbARk_zSiVEifI5As7bZqUG1BIL&index=5&t=2s)
 
 
