@@ -28,7 +28,7 @@ core knowledged
 
 * [mcsa](https://drive.google.com/file/d/1j_Cf2_wpJjZ6ZaNbliI3uYKUIobJqr6Z/view?usp=share_link)
 
-# Interviews Section
+# Interview Section
 
 
 ## CCNA Interview Questions
