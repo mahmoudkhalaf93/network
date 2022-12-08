@@ -21,12 +21,12 @@ core knowledged
 ## security
 
 
-* [security](https://drive.google.com/file/d/14WXa8_s0NVWR0Iec7ut_JZRZN_QBhVJq/view?usp=share_link)
+* [security_download_link](https://drive.google.com/file/d/14WXa8_s0NVWR0Iec7ut_JZRZN_QBhVJq/view?usp=share_link)
 
 ## MCSA
 
 
-* [mcsa](https://drive.google.com/file/d/1j_Cf2_wpJjZ6ZaNbliI3uYKUIobJqr6Z/view?usp=share_link)
+* [mcsa_download_link](https://drive.google.com/file/d/1j_Cf2_wpJjZ6ZaNbliI3uYKUIobJqr6Z/view?usp=share_link)
 
 # Interview Section
 
