@@ -36,12 +36,12 @@ core knowledged
 هتلاقى فى الديسكربشن بتاع الفيديو الاسئلة بس
 والفيديو فى الاجابات هتكتتب الاسئلة فى ورقة والاجابة فى ورقة وتسمع لنفسك لحد ما تحفظ السوال بالاجابة
 * [Link-Youtube](https://www.youtube.com/watch?v=Elf6I_560VQ&t=194s)
-=========================
+
 
 ## MCSA Interview Questions - Arabic
 نفس الكلام
 * [Link-Youtube](https://www.youtube.com/watch?v=_td28bLet6o&t=2s)
-=========================
+
 
 ## CCNP Interview Questions Part1 Network Solutions
 ده انترفيو خاص بشركات السليوشن 
@@ -52,7 +52,7 @@ installtion
 ccna and ccnp
 ويفضل تكون مذاكر mcsa and security 
 * [Link-Youtube](https://www.youtube.com/watch?v=59DT4np_VN8&list=PLmtwyhhbARk_zSiVEifI5As7bZqUG1BIL&index=5&t=2s)
-=========================
+
 
 ## CCNP Interview Questions Part2 ISP Basic Routing
 ده اسئلة خاصة ببوزشن ال noc و enterprise
@@ -64,9 +64,9 @@ ccna and ccnp only
 تكملة اسئلة الفيديو بتاع ال noc و enterprise 
 * [Link-Youtube](https://www.youtube.com/watch?v=jF0wkm7lsh0&list=PLmtwyhhbARk_zSiVEifI5As7bZqUG1BIL&index=2)
 
-=======================
 
-ده ليستها فيها الخمس فيديوهات بتاعت الانترفيو مجمعة## 
+
+## ده ليستها فيها الخمس فيديوهات بتاعت الانترفيو مجمعة
 * [Link-Youtube](https://www.youtube.com/playlist?list=PLmtwyhhbARk_zSiVEifI5As7bZqUG1BIL)
 
 
