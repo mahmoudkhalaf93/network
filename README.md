@@ -31,15 +31,16 @@ core knowledged
 #Interviews Section
 
 
-##CCNA Interview Questions 
+##CCNA Interview Questions
+
 هتلاقى فى الديسكربشن بتاع الفيديو الاسئلة بس
-والفيديو فى الاجابات هتكتتب الاسئلة فى ورقة والاجابة فى ورقة وتسمع لنفسك لحد ما تحفظ السوال بالاجابة 
-https://www.youtube.com/watch?v=Elf6I_560VQ&t=194s
+والفيديو فى الاجابات هتكتتب الاسئلة فى ورقة والاجابة فى ورقة وتسمع لنفسك لحد ما تحفظ السوال بالاجابة
+* [Link-Youtube](https://www.youtube.com/watch?v=Elf6I_560VQ&t=194s)
 =========================
 
 ##MCSA Interview Questions - Arabic
 نفس الكلام
-https://www.youtube.com/watch?v=_td28bLet6o&t=2s
+* [Link-Youtube](https://www.youtube.com/watch?v=_td28bLet6o&t=2s)
 =========================
 
 ##CCNP Interview Questions Part1 Network Solutions
@@ -50,19 +51,22 @@ installtion
  وكده للشبكة وصيانتها لو وقعت وبتاع
 ccna and ccnp
 ويفضل تكون مذاكر mcsa and security 
-https://www.youtube.com/watch?v=59DT4np_VN8&list=PLmtwyhhbARk_zSiVEifI5As7bZqUG1BIL&index=5&t=2s
+* [Link-Youtube](https://www.youtube.com/watch?v=59DT4np_VN8&list=PLmtwyhhbARk_zSiVEifI5As7bZqUG1BIL&index=5&t=2s)
 =========================
 
 ##CCNP Interview Questions Part2 ISP Basic Routing
 ده اسئلة خاصة ببوزشن ال noc و enterprise
 ccna and ccnp only 
-https://www.youtube.com/watch?v=PS6uuzECB-I&list=PLmtwyhhbARk_zSiVEifI5As7bZqUG1BIL&index=6
+* [Link-Youtube](https://www.youtube.com/watch?v=PS6uuzECB-I&list=PLmtwyhhbARk_zSiVEifI5As7bZqUG1BIL&index=6)
+
 --------------
 ##CCNP Interview Questions Part3 ISP EIGRP AND OSPF
 تكملة اسئلة الفيديو بتاع ال noc و enterprise 
-https://www.youtube.com/watch?v=jF0wkm7lsh0&list=PLmtwyhhbARk_zSiVEifI5As7bZqUG1BIL&index=2
+* [Link-Youtube](https://www.youtube.com/watch?v=jF0wkm7lsh0&list=PLmtwyhhbARk_zSiVEifI5As7bZqUG1BIL&index=2)
+
 =======================
 
 ده ليستها فيها الخمس فيديوهات بتاعت الانترفيو مجمعة## 
-https://www.youtube.com/playlist?list=PLmtwyhhbARk_zSiVEifI5As7bZqUG1BIL
-===============
+* [Link-Youtube](https://www.youtube.com/playlist?list=PLmtwyhhbARk_zSiVEifI5As7bZqUG1BIL)
+
+
