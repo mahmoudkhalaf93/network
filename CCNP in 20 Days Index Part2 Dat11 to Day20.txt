@@ -1,0 +1,124 @@
+CCNP in 20 day Index(Part2 Day11 to Dat20):
+----------------------
+Day11
+========
+1_BGP Messages
+2_BGP Attributes_Part1
+3_BGP Attributes_Part2_AS Path
+4_BGP Attributes_Part3_Next Hop
+5_BGP Attributes_Part4_Origin
+6_BGP Attributes_Part5_Local Prefrence
+7_BGP Attributes_Part6_MED and Attomic Aggregate
+8_BGP Attributes_Part7_Weight
+9_BGP Attributes_Part8_Routing Decitions
+10_BGP Attributes_Part9_Lab_Changing Wieght
+11_BGP Attributes_Part10_Lab_Changing Local Preference
+12_BGP Attributes_Part11_Lab_Changing MED
+13_BGP Attributes_Part12_Lab_Changing AS Path ACL
+14_BGP Attributes_Part13_Lab_Changing Community
+15_BGP Split Horizon and Full Mesh Problem
+16_BGP Route Reflectors
+17_BGP Confederations
+18_BGP MBGP
+-------------------------
+Day12
+------
+1_Overlay Network Overview
+2_IPSec Authentication_Encryption_Hashing
+3_IPSec Encapsulation Protocols
+4_IPsec IKE
+5_IPsec VPN Site to Site
+6_GRE Tunnel
+7_GRE over IPSec
+8_Site to Site VTI
+9_DMVPN_Overview
+10_DMVPN_Basic Lab Configuration
+-------------------------
+Day13
+------
+1_DMVPN_Configuration
+2_DMVPN_IPsec Configuration
+3_Virtualization Part1
+4_Virtualization Part2
+5_Virtualization Type 2 Software Install
+6_Virtualization Virtual Switches
+7_Virtualization NFV Lab on VMWare
+8_Virtualization Using Virtualbox
+--------------------------
+Day14
+------
+1_MPLS_Connecting Customer Branches Before MPLS
+2_MPLS_Process Overview
+3_MPLS LDP Neighbor Relationship
+4_MPLS_Lab_Srvice Provider IGP and IP configuration
+5_MPLS_Lab_Enable LDP and Track Neighbor Relationship
+6_MPLS_Lab_MPLS Tables_LIB
+7_MPLS_Lab_MPLS Tables_LFIB and FIB
+8_MPLS_VPNv4_Challenges
+9_MPLS_VPNv4_Challenges_Soultions
+10_MPLS_VPNv4_Needs for mBGP
+11_MPLS_VPNv4_VPNv4 Configuration
+12_Introduction to Network Assurance
+---------------------------
+Day15
+------
+1_Network Assurance_Basic Topology Configuration
+2_Network Assurance_Syslog
+3_Network Assurance_SNMP
+4_Network Assurance_Flexiable Netflow
+5_Network Assurance_SPAN and RSPAN
+---------------------------
+Day16
+-----
+1_Network Assurance_APIC EM Overview
+2_Network Assurance_APIC EM Basic Applications
+3_Network Assurance_APIC EM PnP
+4_Network Automation_Introduction
+5_Network Automation_Installing Python_ipython_code_Postman_in windows10
+6_Network Automation_Running Python Modes
+7_Network Automation_Python Data Types
+---------------------------
+Day17
+------
+1_Network Automation_Python Activities
+2_Network Automation_Connecting to Devices Using Netmiko
+3_Network Automation_ASCI and Structered Data
+4_Network Automation_REST API and Data Serialization
+5_Network Automation_REST API to IOS XE Devices
+6_Network Automation_REST API DNA Center
+7_Network Automation_REST API With Python and Requests Module
+----------------------------
+Day18
+------
+1_Network Automation_Structure data and Netconf
+2_Network Automation_EEM and TFTP
+3_Network Automation_TCL
+4_Network Automation_CMS
+5_Network Automation_Ansible Demo
+6_Layer2 Security_MAC address flooding and Port Security
+7_Layer2 Security_DHCP Stravation and DHCP Snooping
+8_Layer2 Security_ARP Spoohing and DAI
+----------------------------
+Day19
+------
+1_Wireless_Fundamentals Part1
+2_Wireless_Fundamentals Part2
+3_Wireless_POE Standards
+4_Wireless_LAB1 Autonomous AP_Firmware Install from ROMMON
+5_Wireless_LAB1 Autonomous AP_Setup WLAN
+6_Wireless_Signals and Modulation
+7_Wireless_Wireless Infrastructure
+8_Wireless_LAB2 WLC  and LWAP_LWAP Firmware Upgrade
+9_Wireless_LAB2 WLC  and LWAP_Setup vWLC
+----------------------------
+Day20
+------
+1_Wireless_WLC and LWAP_Infrastructure Setup
+2_Wireless_Client Authentication_Open_PSK_Web
+3_Wireless_Client Authentication_8021x Local Authentication
+4_Wireless_Client Authentication_8021x External PArt1
+5_Wireless_Client Authentication_8021x External PArt2
+
+
+
+

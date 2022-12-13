@@ -1,0 +1,120 @@
+CCNP in 20 day Index(Part1 Day1 to Dat10):
+----------------------
+Day1
+-----
+1_Intro
+2_Layer2 Switching
+3_Layer2 LAB
+4_Layer2 VLAN and Inter VLAN routing
+5_Layer2 Trunking
+-----------------------
+Day2
+-----
+1_VTP and DHCP Overview
+2_Advanced VLAN Lab Part1
+3_Advanced VLAN Lab Part2
+4_Replace VTP with Python
+5_Password Recovery Part1
+-----------------------
+Day3
+-----
+1_STP Why STP 
+2_STP Explanination
+3_STP STP Lab on Real Devices 
+4_Ether Channel 
+5_SDM Templates
+-----------------------
+Day4
+-----
+1_FHRP_Overview and Basic Topology Configuration
+2_FHRP_HSRP
+3_FHRP_VRRP
+4_FHRP_GLBP
+5_NAT
+-----------------------
+Day5
+-----
+1_IPv4_Overview
+2_IPv4_Subnet Mask
+3_IPv4_Subnetting
+4_IPv6_Overview
+5_IPv6_DHCP
+6_Name Resolution
+7_ARP
+----------------------
+Day6
+-----
+1_ISR and ASR
+2_Static Routing_BasicConfiguration
+3_Static Routing_Staic Routing Configuration
+4_Dynamic Routing_Overview Part1
+5_Dynamic Routing_Overview Part2
+6_IPv6 Static Routing
+7_EIGRP Basic Topology Configuration
+----------------------
+Day7
+----
+1_EIGRP Features
+2_EIGRP Packets  and Protocol Number
+3_EIGRP Neighbor Relationship and Hello Packets
+4_EIGRP Metric
+5_EIGRP Neigbore Relationship conditions
+6_EIGRP Topology1_Enable EIGRP on ISR1
+7_EIGRP Topology1_Enable EIGRP on ISR2 and ISR3
+8_EIGRP Topology1_Hello packet and Neighbors Table
+ 9_EIGRP Topology1_Routing Table and Metric Calculation
+10_EIGRP Topology1_Topology Table
+11_EIGRP Topology1_Feasability Condition
+12_EIGRP Topology1_Query and Reply
+13_EIGRP Topology1_Route Summarization
+14_EIGRP Topology1_SIA
+15_EIGRP Topology1_Load balance
+16_EIGRP Authentication and Timer Modification
+17_EIGRP Named EIGRP and IPv6 Configuration
+-----------------------
+Day8
+-----
+1_OSPF Features
+2_OSPF Router ID Election
+3_OSPF Packets_Timers_Router ID Election Example
+4_OSPF Neighbore Relationship states
+5_OSPF Network Types
+6_OSPF DR_BDR_OSPF Process ID
+7_OSPF Area
+8_OSPF Topology1 Overview
+9_OSPF Router Types
+10_OSPF Route Types
+11_OSPF Basic IP Configuration
+12_OSPF Topology1 EIGRP
+-------------------------
+Day9
+-----
+1_OSPF Topology 1 Basic OSPF Configuration
+2_OSPF Topology 1 Routing Table_Metric Calculation_Refrence Bandwidth
+3_OSPF Topology 1 Neighbors Table_Neighbor relationship_Authentication
+4_OSPF Topology 1 Advertise Default Route
+5_OSPF Topology 1 Route Summarization(ABR)
+6_OSPF Topology 1 Route Redistribution and Seed Metric
+7_OSPF Topology 1 Route Summarization(ASBR)
+8_OSPF Topology 1 Topology Table
+9_OSPF Topology 1 LSA Types
+10_OSPF Topology 1 Special Area Types
+11_OSPF Topology 1 Route Filtering
+12_OSPF Topology 2 Virtual Link
+13_OSPF Topology 3 OSPFv3
+--------------------------
+Day10
+------
+1_BGP Features
+2_BGP ASN
+3_BGP Overview (Fundamentals)
+4_BGP Basic Topology Configuration (IP and IGP)
+5_BGP iBGP Configuration
+6_BGP eBGP Configuration
+7_BGP eBGP Authentication
+8_BGP Sending Update (Redistribution)
+9_BGP Sending Update (Network)
+10_BGP Black holes (Problem and Solutions)
+11_BGP Black holes (Full Mesh and Peer group)
+12_BGP Route Summarization
+13_BGP Complete BGP Configuration

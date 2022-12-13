@@ -1,0 +1,50 @@
+intro , data packet , ports , cable , cisco device inital config , 
+3.22
+osi model  , creating network cables straight , crossover , rollover
+3.20
+data link , switching , module 7 
+1.51
+static routing , ARP
+1.23
+ipv4 subnetting , parameters
+2.50
+ipv6 overview static assignments
+1.0
+dns dhcp file services ssh tcp ip attacks , security AAA
+5.14
+=
+20
+--------
+DHCP v6 , ipv6 simister revision wlan inro
+5.51
+static dynamic routing
+3.10
+wlan wireless
+3.43
+Security_Attacks and Mittigations_Part1
+1.40
+Switching_STP_Explain STP With Packet Capture Compressed ,,, routing fhrp
+3.33
+Switching_Switch Logic ,vlan , routing , modes , tagging
+5.13
+=
+23
+.------
+OSPF Topology Basic Configuration
+6.21
+ACL NAT
+2.26
+REST API Part1 SNMP WAN
+4.47
+VPN_Part1
+3.54
+Virtualization 3_Cloud Computing
+4.15
+Introduction to Python and Setup Environment
+4.43
+=
+27
+
+ccna 70 hour
+................
+
